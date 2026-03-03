@@ -28,6 +28,7 @@ Lezioni:
 
 ## 🔹 Struttura delle lezioni
 
+```
 01_Statistics_Query/
 ├─ README.md       # Struttura
 ├─ script.sql      # Query lenta e query ottimizzata da eseguire
@@ -57,6 +58,7 @@ Lezioni:
 ├─ ...
 ├─ ...
 └─ ...
+```
 
 ---
 
